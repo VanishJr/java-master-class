@@ -1,10 +1,8 @@
 # Java Masterclass
 
-## Completed tasks from "[Java Programming Masterclass for Software Developers](https://www.udemy.com/course/java-the-complete-java-developer-course/)" on Udemy
+## Welcome to the Java Programming course completed tasks repository!
 
-Welcome to the Java Programming course completed tasks repository!
-
-This repository contains all of the completed tasks and assignments for the Java Programming course. Each task is located in its own directory, named according to the task number.
+This repository contains all of the completed tasks and assignments for the ["Java Programming Masterclass for Software Developers"](https://www.udemy.com/course/java-the-complete-java-developer-course/). Each task is located in its own directory, named according to the task number.
 
 This repository serves as a reference for future reference and for other students who are taking the course.
 
