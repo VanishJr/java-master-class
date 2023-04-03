@@ -1,4 +1,4 @@
-public class Dog extends Animal{
+public class Dog extends Mammal{
 
     public Dog(String type, String size, double weiht) {
         super(type, size, weiht);
@@ -11,6 +11,11 @@ public class Dog extends Animal{
         } else {
             System.out.print(getExplicitType() + " running ");
         }
+    }
+
+    @Override
+    public void sheadHair() {
+        System.out.println(getExplicitType() + " shed hair all the time");
     }
 
     @Override
